@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+smart_attendance_data/admin_config.json
+smart_attendance_data/attendance_log.csv
+smart_attendance_data/zone_log.csv
+smart_attendance_data/face_model.yml
+smart_attendance_data/face_dataset/
